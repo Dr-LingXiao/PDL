@@ -1,5 +1,5 @@
 # Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching Considering the Diversity of the Video (ACMMM Asia 2024)
-## Tomoya Sugihara, Shuntaro Masuda, Ling Xiao, and Toshihiko Yamasaki.
+# Tomoya Sugihara, Shuntaro Masuda, Ling Xiao, and Toshihiko Yamasaki.
 
 
 ### [Paper](https://arxiv.org/abs/2405.08890)
